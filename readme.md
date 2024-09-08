@@ -10,3 +10,8 @@
 [Problem 8](Problem-8.md) - [Solution](Problem-8.js) <br>
 [Problem 9](Problem-9.md) - [Solution](Problem-9.js) <br>
 [Problem 10](Problem-10.md) - [Solution](Problem-10.js) <br>
+[Problem 11](Problem-11.md) - [Solution](Problem-11.js) <br>
+[Problem 12](Problem-12.md) - [Solution](Problem-12.js) <br>
+[Problem 13](Problem-13.md) - [Solution](Problem-13.js) <br>
+[Problem 14](Problem-14.md) - [Solution](Problem-14.js) <br>
+[Problem 15](Problem-15.md) - [Solution](Problem-15.js) <br>
